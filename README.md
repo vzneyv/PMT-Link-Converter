@@ -5,7 +5,29 @@ Extension which takes PDF links from Physics and Maths Tutor, and converts it in
 This code was made with ChatGPT and allows users to paste a link from PMT and removes the AD sidebar which no one likes, by keeping only the raw pdf link and decoding any encoded URI components using the decodeURIComponent() function.
 This also includes a right click context menu option which does the same function as the extension, without needing to copy and paste the link.
 
+## How to download extension from this page
+### Method 1:
+#### Press the green "Code" dropdown button and then click "Download ZIP"
+#### Extract the newly downloaded ZIP
+#### Continue to "How to install" section and follow the steps provided unless you know what you're doing
+
+### Method 2:
+#### Press the "Releases" button on the right hand side of this page
+#### Scroll to the latest release and press the relevant "PMT.Link.Converter.Zip"
+#### Extract the newly downloaded ZIP
+#### Continue to "How to install" section and follow the steps provided unless you know what you're doing
+
+
 ## How to install
+### 1. Open Google Chrome
+### 2. Type in the url bar "chrome://extensions" without the quotes (")
+### 3. Turn on developer mode using the switch on the top right of the extensions page you have just navigated to
+  You will now see 3 buttons appear on the top of the page
+### 4. Press the "Load unpacked" button
+### 5. Select folder which contains the "PMT Link Converter" extension files and press select folder
+### 6. The extension should be loaded, switch it on if needed
+### 7. ????
+### 8. PROFIT
 
 
 ## Key components include:

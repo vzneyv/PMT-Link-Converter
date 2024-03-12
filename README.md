@@ -1,5 +1,5 @@
-# PMT-Link-Converter
-Extension which takes PDF links from Physics and Maths Tutor, and converts it into non bloated raw pdf file links
+# PMT-Link-Converter-Extension
+Extension which takes PDF links from Physics and Maths Tutor, and converts it into non bloated raw pdf file links which loads 900% faster on average.
 
 
 This code was made with ChatGPT and allows users to paste a link from PMT and removes the AD sidebar which no one likes, by keeping only the raw pdf link and decoding any encoded URI components using the decodeURIComponent() function.

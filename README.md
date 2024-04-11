@@ -1,7 +1,7 @@
 # PMT-Link-Converter-Extension for chrome only for now
-Extension which takes PDF links from Physics and Maths Tutor, and converts it into non bloated raw pdf file links which loads 900% faster on average.
-You should be able to just click a link and kerblam!
-if this doesnt work, right click a link and select the context menu option, or open the extension and paste the link to use the extension
+	Extension which takes PDF links from Physics and Maths Tutor, and converts it into non bloated raw pdf file links which loads 900% faster on average.
+	You should be able to just click a link and kerblam!
+	if this doesnt work, right click a link and select the context menu option, or open the extension and paste the link to use the extension
 
 
 This code was made with ChatGPT and allows users to paste a link from PMT and removes the AD sidebar which no one likes, by keeping only the raw pdf link and decoding any encoded URI components using the decodeURIComponent() function.

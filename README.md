@@ -1,4 +1,4 @@
-# patched! PMT-Link-Converter-Extension for chrome only for now
+# PMT-Link-Converter-Extension for chrome only for now
 Extension which takes PDF links from Physics and Maths Tutor, and converts it into non bloated raw pdf file links which loads 900% faster on average.
 You must right click a link and select the context menu option, or open the extension and paste the link to use the extension
 

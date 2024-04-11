@@ -3,7 +3,7 @@
   "name": "PMT Link Converter",
   "version": "1.0",
   "description": "Converts PMT links",
-  "permissions": ["activeTab", "tabs", "contextMenus"],
+  "permissions": ["activeTab", "tabs", "contextMenus", "webNavigation"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {

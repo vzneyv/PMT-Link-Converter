@@ -9,15 +9,15 @@ This also includes a right click context menu option which does the same functio
 
 ## How to download extension from this page
 ### Method 1:
-Press the green "Code" dropdown button and then click "Download ZIP"
-Extract the newly downloaded ZIP
-Continue to "How to install" section and follow the steps provided unless you know what you're doing
+##### Press the green "Code" dropdown button and then click "Download ZIP"
+##### Extract the newly downloaded ZIP
+##### Continue to "How to install" section and follow the steps provided unless you know what you're doing
 
 ### Method 2:
-Press the "Releases" button on the right hand side of this page
-Scroll to the latest release and press the relevant "PMT.Link.Converter.Zip"
-Extract the newly downloaded ZIP
-Continue to "How to install" section and follow the steps provided unless you know what you're doing
+##### Press the "Releases" button on the right hand side of this page
+##### Scroll to the latest release and press the relevant "PMT.Link.Converter.Zip"
+##### Extract the newly downloaded ZIP
+##### Continue to "How to install" section and follow the steps provided unless you know what you're doing
 
 
 ## How to install

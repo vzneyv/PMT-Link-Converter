@@ -21,15 +21,15 @@ This also includes a right click context menu option which does the same functio
 
 
 ## How to install
-1. Open Google Chrome
-2. Type in the url bar "chrome://extensions" without the quotes (")
-3. Turn on developer mode using the switch on the top right of the extensions page you have just navigated to
-   You will now see 3 buttons appear on the top of the page
-4. Press the "Load unpacked" button
-5. Select folder which contains the "PMT Link Converter" extension files and press select folder
-6. The extension should be loaded, switch it on if needed
-7. ????
-8. PROFIT
+##### 1. Open Google Chrome
+##### 2. Type in the url bar "chrome://extensions" without the quotes (")
+##### 3. Turn on developer mode using the switch on the top right of the extensions page you have just navigated to
+#####    You will now see 3 buttons appear on the top of the page
+##### 4. Press the "Load unpacked" button
+##### 5. Select folder which contains the "PMT Link Converter" extension files and press select folder
+##### 6. The extension should be loaded, switch it on if needed
+##### 7. ????
+##### 8. PROFIT
 
 
 ## Key components include:
